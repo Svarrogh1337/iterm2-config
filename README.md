@@ -1,2 +1,2 @@
-# agnoster-zsh-theme
-My agnoster-zsh-theme
+# iterm2-config
+My iterm2-config
